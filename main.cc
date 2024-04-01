@@ -1,6 +1,6 @@
 /*
  * INSTRUCTION:
- *     This is a C++ starting code for hw 5_1.
+ *     This is a C++ starting code for hw 7_2.
  */
 
 // Finish the head comment with Abstract, Name, and Date.
@@ -18,7 +18,7 @@ int main()
 {
     // Your code should be here.
     // The following is a just sample statement.
-    // cout << "Hello world!" << endl;
+    cout << "Hello world!" << endl;
 
    
 }
